@@ -1,4 +1,4 @@
-![Efecto de partículas](https://giphy.com/embed/ciYfVwZxBD0wPrO6nb)
+![Efecto de partículas](https://giphy.com/stickers/code-matrix-xULW8l2gXuRPmsQe8U)
 # 🦍 Keneth Cubas (Kometha)
 
 **`SOFTWARE DEVELOPER`**
