@@ -1,3 +1,4 @@
+<div id="particles-js">
 # 🦍 Keneth Cubas (Kometha)
 
 **`SOFTWARE DEVELOPER`**
@@ -33,6 +34,9 @@ It's a pleasure to meet you and I'm excited for future opportunities for collabo
 
 
 <br/>
+<script src="./app.js"></script>
+</div>
+
 
 <!--
 **Kometha/Kometha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
