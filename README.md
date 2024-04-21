@@ -1,4 +1,3 @@
-![Efecto de partículas](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgzZGVyOWFpNnk0aDF6b210MGUyeGMyZjZnZDJoZzNmNnBwaWxybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif)
 # 🦍 Keneth Cubas (Kometha)
 
 **`SOFTWARE DEVELOPER`**
@@ -36,6 +35,9 @@ It's a pleasure to meet you and I'm excited for future opportunities for collabo
 
 
 <br/>
+
+![Efecto de partículas](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgzZGVyOWFpNnk0aDF6b210MGUyeGMyZjZnZDJoZzNmNnBwaWxybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif?autoplay=1)
+
 
 
 <!--
