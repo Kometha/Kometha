@@ -32,7 +32,6 @@ It's a pleasure to meet you and I'm excited for future opportunities for collabo
 <img title="NEST JS" align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
 <img title="Linux" align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-
 <br/>
 <br/>
 <br/>
@@ -40,9 +39,8 @@ It's a pleasure to meet you and I'm excited for future opportunities for collabo
 ### 📫 How to reach me: ...
 
    <p align="left">
-      <a href="mailto:kennethcubas93@gmail.com">
+      <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsLPtsDXHvvfcqdgTmCgzPMhhKKPkMWgDwkMPGMLDpJmdTHtXpqgPvzShtlTzwTCQhnPbfqL">
          <img alt="Gmail" height="30px" width="300px"  title="Contact through my email " src="https://custom-icon-badges.demolab.com/badge/-kennethcubas93@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
-      <a href="mailto:kennethcubas93@gmail.com">
+      <a href="https://www.instagram.com/_kometha/">
          <img alt="Instagram" width="120px"  title="Instagram " src="https://custom-icon-badges.demolab.com/badge/__kometha-blue.svg?logo=instagram&logoSource=feather"/></a> 
    </p>
-   
