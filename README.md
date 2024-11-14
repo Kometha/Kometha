@@ -10,7 +10,7 @@ Hi there!👋 I am a passionate Honduran software developer with over a year of 
 
 💡 In addition to my practical experience, I have a firm commitment to continuous improvement. I am constantly looking for opportunities to expand my knowledge and improve my technical and problem-solving skills.
 
-It's a pleasure to meet you and I'm excited for future opportunities for collaboration and growth in the world of software development!
+Technically, a genius
 
 ### 🔨 Languages and Tools
 
